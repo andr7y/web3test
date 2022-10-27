@@ -3133,7 +3133,7 @@
     "@ethersproject/abi" "^5.6.3"
     "web3-utils" "1.8.0"
 
-"web3-eth-accounts@^1.8.0", "web3-eth-accounts@1.8.0":
+"web3-eth-accounts@1.8.0":
   "integrity" "sha512-HQ/MDSv4bexwJLvnqsM6xpGE7c2NVOqyhzOZFyMUKXbIwIq85T3TaLnM9pCN7XqMpDcfxqiZ3q43JqQVkzHdmw=="
   "resolved" "https://registry.npmmirror.com/web3-eth-accounts/-/web3-eth-accounts-1.8.0.tgz"
   "version" "1.8.0"
